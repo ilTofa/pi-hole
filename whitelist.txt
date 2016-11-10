@@ -1,0 +1,10 @@
+raw.githubusercontent.com
+adblock.gjtech.net
+mirror1.malwaredomains.com
+sysctl.org
+zeustracker.abuse.ch
+s3.amazonaws.com
+hosts-file.net
+apple-dns.net
+ransomwaretracker.abuse.ch
+c.apple.com
